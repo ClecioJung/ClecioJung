@@ -7,7 +7,8 @@ I have interest/experience in the subjects of Electronics, Programming, Electric
 - Master's Degree in Electrical Engineering - Universidade Tecnológica Federal Do Paraná (UTFPR), Pato Branco - PR, Brazil;
 - Control And Automation Engineering - Instituto Federal Catarinense (IFC), Luzerna - SC, Brazil;
 - Technical Course in Industrial Automation - Instituto Federal Catarinense (IFC), Luzerna - SC, Brazil;
-Possui experiência na área de Eletrônica, Programação, Máquinas elétricas, Controle e Automação.
+
+I have experience in Electronics, Programming, Electrical Machines, Control and Automation.
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
