@@ -1,6 +1,10 @@
 # Clecio Jung
 
-I have interest/experience in the subjects of Electronics, Programming, Electrical Machines, Control and Automation.
+<div>
+  <a href="https://github.com/ClecioJung">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClecioJung&theme=dark&show_icons=true&include_all_comits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClecioJung&theme=dark&layout=compact&langs_count=6"/>
+</div>
 
 ## Education
 
