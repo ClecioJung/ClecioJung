@@ -1,31 +1,20 @@
-# Clecio Jung
+### Clecio Jung
 
-<div>
-  <a href="https://github.com/ClecioJung">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClecioJung&theme=dark&show_icons=true&include_all_comits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClecioJung&theme=dark&layout=compact&langs_count=8"/>
-</div>
+Embedded Systems Engineer with 8+ years of experience developing firmware
+in C/C++ for industrial automation and real-time control systems —
+RTOS/bare-metal firmware, industrial communication protocols (IEC61850,
+Modbus, DNP3, IEC 60870-5-104, CANopen), and embedded Linux.
 
-## Education
+I also bring a background in power electronics, control theory, and
+digital signal processing (M.Sc. in Electrical Engineering, IEEE-published
+research on motor drive control).
 
-- Master's Degree in Electrical Engineering
-  - Universidade Tecnológica Federal Do Paraná (UTFPR), Pato Branco - PR, Brazil
-- Control And Automation Engineering
-  - Instituto Federal Catarinense (IFC), Luzerna - SC, Brazil
-- Technical Course in Industrial Automation
-  - Instituto Federal Catarinense (IFC), Luzerna - SC, Brazil
-
-I have experience in Electronics, Programming, Electrical Machines, Control and Automation.
+**Currently:** R&D Specialist at Reivax S/A Automação e Controle (WEG Group).
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+---
+
+💼 [LinkedIn](https://www.linkedin.com/in/clecio-jung-592a18153/) · ✉️ clecio.jung@gmail.com
